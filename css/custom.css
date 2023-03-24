@@ -436,3 +436,12 @@ hr:before {
     opacity: 1;
 }
 /** 代码块复制功能-end **/
+
+body {counter-reset:section}
+body h1{counter-reset:sub-section}
+body h2{counter-reset:composite}
+body h3{counter-reset:detail}
+body h1:before{content:counter(section) " ";counter-increment:section}
+body h2:before{content:counter(section) "." counter(sub-section) " ";counter-increment:sub-section}
+body h3:before{content:counter(section) "." counter(sub-section) "." counter(composite) " ";counter-increment:composite}
+body h4:before{content:counter(section) "." counter(sub-section) "." counter(composite) "." counter(detail) " ";counter-increment:detail}
