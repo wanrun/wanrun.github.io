@@ -437,11 +437,11 @@ hr:before {
 }
 /** 代码块复制功能-end **/
 
-body {counter-reset:section}
-body h1{counter-reset:sub-section}
-body h2{counter-reset:composite}
-body h3{counter-reset:detail}
-body h1:before{content:counter(section) " ";counter-increment:section}
-body h2:before{content:counter(section) "." counter(sub-section) " ";counter-increment:sub-section}
-body h3:before{content:counter(section) "." counter(sub-section) "." counter(composite) " ";counter-increment:composite}
-body h4:before{content:counter(section) "." counter(sub-section) "." counter(composite) "." counter(detail) " ";counter-increment:detail}
+#card-toc,#article-container {counter-reset:section}
+#card-toc,#article-container h1{counter-reset:sub-section}
+#card-toc,#article-container h2{counter-reset:composite}
+#card-toc,#article-container h3{counter-reset:detail}
+#card-toc,#article-container h1:before{content:counter(section) " ";counter-increment:section}
+#card-toc,#article-container h2:before{content:counter(section) "." counter(sub-section) " ";counter-increment:sub-section}
+#card-toc,#article-container h3:before{content:counter(section) "." counter(sub-section) "." counter(composite) " ";counter-increment:composite}
+#card-toc,#article-container h4:before{content:counter(section) "." counter(sub-section) "." counter(composite) "." counter(detail) " ";counter-increment:detail}
