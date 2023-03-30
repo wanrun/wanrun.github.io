@@ -447,3 +447,12 @@ hr:before {
 #card-toc,#article-container h3:before{content:counter(section) "." counter(sub-section) "." counter(composite) " ";counter-increment:composite}
 #card-toc,#article-container h4:before{content:counter(section) "." counter(sub-section) "." counter(composite) "." counter(detail) " ";counter-increment:detail}
 **/
+/*哔哩哔哩视频适配*/
+.aspect-ratio {position: relative;width: 100%;height: 0;padding-bottom: 75%;margin: 3% auto;text-align: center;}
+.aspect-ratio iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
