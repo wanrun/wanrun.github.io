@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>SPC控制图常规算法逻辑及绘制</title>
+      <link href="/post/1db7da35.html"/>
+      <url>/post/1db7da35.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="SPC控制图常规算法逻辑及绘制">1. SPC控制图常规算法逻辑及绘制</h1><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161436046.png" alt="image-20230616143625001"></p><h2 id="单值控制图（I）">1.1. 单值控制图（I）</h2><h3 id="数据准备：">1.1.1. 数据准备：</h3><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161502897.png" alt="image-20230616144000158"><h3 id="算法步骤">1.1.2. 算法步骤</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161503289.png" alt="image-20230616144107693"></p><h3 id="绘制区">1.1.3. 绘制区</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161503456.png" alt="image-20230616144242477"></p><h3 id="八个判定规则">1.1.4. 八个判定规则</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161502751.png" alt="image-20230616144427555"></p><h2 id="移动极差图控制图（MR">1.2. 移动极差图控制图（MR)</h2><h3 id="数据准备：-1">1.2.1. 数据准备：</h3><blockquote><p>参考图1.1.1</p></blockquote><h3 id="算法步骤-1">1.2.2. 算法步骤</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161502602.png" alt="image-20230616144107693"></p><h3 id="绘制区-1">1.2.3. 绘制区</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161502818.png" alt="image-20230616145042799"></p><h3 id="八个判定规则-1">1.2.4. 八个判定规则</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161502466.png" alt="image-20230616144427555"></p><h2 id="均值图">1.3. 均值图</h2><h3 id="数据准备：-2">1.3.1. 数据准备：</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161502774.png" alt="image-20230616145449463"></p><h3 id="算法步骤-2">1.3.2. 算法步骤</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161502891.png" alt="image-20230616145530439"></p><h3 id="绘制区-2">1.3.3. 绘制区</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161502826.png" alt="image-20230616145609079"></p><h3 id="八个判定规则-2">1.3.4. 八个判定规则</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161502988.png" alt="image-20230616144427555"></p><h2 id="标准差图">1.4. 标准差图</h2><h3 id="数据准备：-3">1.4.1. 数据准备：</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161502314.png" alt="image-20230616145449463"></p><h3 id="算法步骤-3">1.4.2. 算法步骤</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161502131.png" alt="image-20230616145530439"></p><h3 id="绘制区-3">1.4.3. 绘制区</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161503372.png" alt="image-20230616145722441"></p><h3 id="八个判定规则-3">1.4.4. 八个判定规则</h3><p><img src="https://cdn.staticaly.com/gh/wanrun/PicGo@main/img/202306161503291.png" alt="image-20230616144427555"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> SPC </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SPC </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Oracle触发器+合表</title>
       <link href="/post/1db7da34.html"/>
       <url>/post/1db7da34.html</url>
