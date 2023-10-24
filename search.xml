@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>一键生成数据字典word文档（作者：万润）</title>
+      <link href="/post/1db7da38.html"/>
+      <url>/post/1db7da38.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="一键生成数据字典word文档">1. 一键生成数据字典word文档</h1><p>快速把设计好的数据库表，导出成word、html、markdown文件</p><h2 id="准备工作-安装">1.1. 准备工作-安装</h2><p><img src="https://cdn.jsdelivr.net/gh/wanrun/PicGo@main/img/202310241313198.jpg" alt="5a129f3e50ab4f0ef1b267e69f51781c"></p><h1 id="开发环境">2. 开发环境</h1><p><img src="https://cdn.jsdelivr.net/gh/wanrun/PicGo@main/img/202310241314567.jpeg" alt="47fbb80dbdd4b0cea836fdb13103ee71"></p><p><img src="https://cdn.jsdelivr.net/gh/wanrun/PicGo@main/img/202310241314556.jpeg" alt="d90f744a17561a59872f3268c95756fb"></p><h1 id="开始运行">3. 开始运行</h1><p><img src="https://cdn.jsdelivr.net/gh/wanrun/PicGo@main/img/202310241314742.jpg" alt="263b6b8784a2e897b07056612ad0225d"></p><h1 id="生成效果">4. 生成效果</h1><p><img src="https://cdn.jsdelivr.net/gh/wanrun/PicGo@main/img/202310241314852.jpg" alt="3223e2c50e3b81912d2328f54c236d97"></p><p><img src="https://cdn.jsdelivr.net/gh/wanrun/PicGo@main/img/202310241314749.jpg" alt="025182ec01b9262eaf21aa3bf975ffea"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数据字典 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数据字典 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一秒生成JAVA后端CRUD代码（作者：万润）</title>
       <link href="/post/1db7da37.html"/>
       <url>/post/1db7da37.html</url>
