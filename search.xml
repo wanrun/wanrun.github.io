@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>服务器调优篇-持续更新（作者：万润）</title>
+      <link href="/post/1db7da39.html"/>
+      <url>/post/1db7da39.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="服务器CPU过高检查命令">0.1. 服务器CPU过高检查命令</h2><blockquote><ol><li><p>Top </p><p>查出使用率最高的进程有哪些</p><p><img src="https://cdn.jsdelivr.net/gh/wanrun/PicGo@main/img/image-20240112173930233.png" alt="image-20240112173930233"></p></li><li><p>top -H -p 18720 </p><p>查出该进程下哪些线程使用率高</p><p><img src="https://cdn.jsdelivr.net/gh/wanrun/PicGo@main/img/image-20240112174314027.png" alt="image-20240112174314027"></p></li><li><p>printf ‘0x%x\n’ 18720 </p><p>找出16进制 0x4939</p></li><li><p>jstack 18720 | grep 0x4939 -A 20</p><p><img src="https://cdn.jsdelivr.net/gh/wanrun/PicGo@main/img/image-20240112174143603.png" alt="image-20240112174143603"></p></li></ol></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 服务器调优篇 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 服务器调优 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一键生成数据字典word文档（作者：万润）</title>
       <link href="/post/1db7da38.html"/>
       <url>/post/1db7da38.html</url>
